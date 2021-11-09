@@ -1,0 +1,90 @@
+com/alesp/feedbackapp/BuildConfig.java
+ com.alesp.feedbackapp.BuildConfig
+com/alesp/feedbackapp/QueryUser.java
+ com.alesp.feedbackapp.QueryUser
+ com.alesp.feedbackapp.QueryUser$1
+ com.alesp.feedbackapp.QueryUser$1$1
+ com.alesp.feedbackapp.QueryUser$1$2
+ com.alesp.feedbackapp.QueryUser$2
+ com.alesp.feedbackapp.QueryUser$3
+ com.alesp.feedbackapp.QueryUser$4
+ com.alesp.feedbackapp.QueryUser$5
+ com.alesp.feedbackapp.QueryUser$6
+ com.alesp.feedbackapp.QueryUser$6$1
+ com.alesp.feedbackapp.QueryUser$7
+ com.alesp.feedbackapp.QueryUser$8
+ com.alesp.feedbackapp.QueryUser$9
+ com.alesp.feedbackapp.QueryUser$9$1
+ com.alesp.feedbackapp.QueryUser$9$1$1
+ com.alesp.feedbackapp.QueryUser$9$1$1$1
+ com.alesp.feedbackapp.QueryUser$9$1$2
+ com.alesp.feedbackapp.QueryUser$9$1$2$1
+ com.alesp.feedbackapp.QueryUser$9$1$3
+ com.alesp.feedbackapp.QueryUser$9$1$3$1
+ com.alesp.feedbackapp.QueryUser$Rest_NLP
+com/alesp/feedbackapp/QueryFeeling.java
+ com.alesp.feedbackapp.FeedbackOutput
+ com.alesp.feedbackapp.QueryFeeling
+ com.alesp.feedbackapp.QueryFeeling$1
+ com.alesp.feedbackapp.QueryFeeling$2
+ com.alesp.feedbackapp.QueryFeeling$3
+ com.alesp.feedbackapp.QueryFeeling$4
+com/alesp/feedbackapp/SettingsActivity.java
+ com.alesp.feedbackapp.SettingsActivity
+ com.alesp.feedbackapp.SettingsActivity$1
+com/alesp/feedbackapp/UsefulData.java
+ com.alesp.feedbackapp.UsefulData
+com/alesp/feedbackapp/utils/JavaHTTPServer.java
+ com.alesp.feedbackapp.utils.JavaHTTPServer
+com/alesp/feedbackapp/WakeUpService.java
+ com.alesp.feedbackapp.WakeUpService
+ com.alesp.feedbackapp.WakeUpService$1
+ com.alesp.feedbackapp.WakeUpService$WakeUpBinder
+ com.alesp.feedbackapp.WakeUpService$sortData
+com/alesp/feedbackapp/ConnectionListener.java
+ com.alesp.feedbackapp.ConnectionListener
+com/alesp/feedbackapp/SplashActivity.java
+ com.alesp.feedbackapp.SplashActivity
+ com.alesp.feedbackapp.SplashActivity$1
+com/alesp/feedbackapp/CertainData.java
+ com.alesp.feedbackapp.CertainData
+com/alesp/feedbackapp/Client.java
+ com.alesp.feedbackapp.Client
+ com.alesp.feedbackapp.Client$1
+ com.alesp.feedbackapp.Client$ReceiveThread
+ com.alesp.feedbackapp.Client$SendRunnable
+com/alesp/feedbackapp/ActivityRecognitionFragment.java
+ com.alesp.feedbackapp.ActivityRecognitionFragment
+ com.alesp.feedbackapp.ActivityRecognitionFragment$1
+ com.alesp.feedbackapp.ActivityRecognitionFragment$1$1
+ com.alesp.feedbackapp.ActivityRecognitionFragment$1$2
+ com.alesp.feedbackapp.ActivityRecognitionFragment$1$2$1
+ com.alesp.feedbackapp.ActivityRecognitionFragment$CertainData
+ com.alesp.feedbackapp.ActivityRecognitionFragment$UncertainData
+com/alesp/feedbackapp/utils/CertainOrder.java
+ com.alesp.feedbackapp.utils.CertainOrder
+com/alesp/feedbackapp/utils/InsertionOrder.java
+ com.alesp.feedbackapp.utils.InsertionOrder
+com/alesp/feedbackapp/CrossfadeWrapper.java
+ com.alesp.feedbackapp.CrossfadeWrapper
+com/alesp/feedbackapp/FeedbackAdapter.java
+ com.alesp.feedbackapp.FeedbackAdapter
+com/alesp/feedbackapp/QueryAnswer.java
+ com.alesp.feedbackapp.QueryAnswer
+ com.alesp.feedbackapp.QueryAnswer$1
+ com.alesp.feedbackapp.QueryAnswer$2
+ com.alesp.feedbackapp.QueryAnswer$3
+ com.alesp.feedbackapp.QueryAnswer$4
+ com.alesp.feedbackapp.QueryAnswer$5
+com/alesp/feedbackapp/HomeActivity.java
+ com.alesp.feedbackapp.HomeActivity
+ com.alesp.feedbackapp.HomeActivity$1
+ com.alesp.feedbackapp.HomeActivity$1$1
+ com.alesp.feedbackapp.HomeActivity$1$1$1
+ com.alesp.feedbackapp.HomeActivity$2
+ com.alesp.feedbackapp.HomeActivity$3
+ com.alesp.feedbackapp.HomeActivity$4
+ com.alesp.feedbackapp.HomeActivity$4$1
+ com.alesp.feedbackapp.HomeActivity$5
+ com.alesp.feedbackapp.HomeActivity$6
+ com.alesp.feedbackapp.ServerSocketTask

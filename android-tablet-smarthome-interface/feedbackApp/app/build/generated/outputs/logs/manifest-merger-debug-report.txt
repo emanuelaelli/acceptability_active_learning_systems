@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:1:1-52:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/ema/.gradle/caches/transforms-3/027f944198f96749f9aeb6bed9bdfaa7/transformed/multidex-1.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikepenz:materialdrawer:5.8.2] /Users/ema/.gradle/caches/transforms-3/2d6b75350aefc5f99c38c04d885fbad5/transformed/materialdrawer-5.8.2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:27.1.1] /Users/ema/.gradle/caches/transforms-3/9af87bd6edd2cbd50d69898ee7202fe9/transformed/design-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.zagum:SpeechRecognitionView:1.2.2] /Users/ema/.gradle/caches/transforms-3/dfb6adf4080366295c30fd625a1dc5b5/transformed/SpeechRecognitionView-1.2.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ema/.gradle/caches/transforms-3/1291987d2a8eede2ff053a2f64a68c5a/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ema/.gradle/caches/transforms-3/5f87e790371d8854e405d8f75cd24d85/transformed/support-v4-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ema/.gradle/caches/transforms-3/6c6274e9f8c6b59371c336c259bf3b5b/transformed/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ema/.gradle/caches/transforms-3/4f71b10a145588652be82199fc4ca0ba/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ema/.gradle/caches/transforms-3/62381b2078d0ae519dddb1dcc42c1f98/transformed/recyclerview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ema/.gradle/caches/transforms-3/589760cbe1f2cae8dbeba2a256d2d759/transformed/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ema/.gradle/caches/transforms-3/ff21552dc01821d4292984569e384887/transformed/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ema/.gradle/caches/transforms-3/213f1fd921a19f40997ac3b78cd9ed17/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/ema/.gradle/caches/transforms-3/8cb78b267e9add9bf71b5b629c3070d8/transformed/transition-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ema/.gradle/caches/transforms-3/b35de9cc68c1cbcd0a9b3ce0ae092362/transformed/support-media-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ema/.gradle/caches/transforms-3/ba6ed871354da306725bbd2eca26d933/transformed/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.easing:library:2.0] /Users/ema/.gradle/caches/transforms-3/22d086be7dbd94b1db70e2a80a891ab2/transformed/library-2.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.androidanimations:library:2.2] /Users/ema/.gradle/caches/transforms-3/fbc3ebbeb8541662bfce014e4b0e8a4f/transformed/library-2.2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.wang.avi:library:2.1.3] /Users/ema/.gradle/caches/transforms-3/04dc1166a69b36f886fbf88af9d16bda/transformed/library-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:google-material-typeface:3.0.1.2.original] /Users/ema/.gradle/caches/transforms-3/7bff074c4cff01acc7ee6c29a7ed4fd1/transformed/google-material-typeface-3.0.1.2.original/AndroidManifest.xml:17:1-29:12
+MERGED from [com.mikepenz:material-design-iconic-typeface:2.2.0.2] /Users/ema/.gradle/caches/transforms-3/ccb1dfa9b6fd91de1901c2daa41eb3b7/transformed/material-design-iconic-typeface-2.2.0.2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.mikepenz:fontawesome-typeface:5.0.6.0] /Users/ema/.gradle/caches/transforms-3/73408faa5a4b01948bdc9af8e5434330/transformed/fontawesome-typeface-5.0.6.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:octicons-typeface:3.2.0.2] /Users/ema/.gradle/caches/transforms-3/ee41538324c756ea9ee7be538d29c0be/transformed/octicons-typeface-3.2.0.2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.mikepenz:meteocons-typeface:1.1.0.2] /Users/ema/.gradle/caches/transforms-3/fab831043cf9e3a00320ac941eecd249/transformed/meteocons-typeface-1.1.0.2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.mikepenz:community-material-typeface:1.8.36.1] /Users/ema/.gradle/caches/transforms-3/152041bd916913dbdac7134963a5b463/transformed/community-material-typeface-1.8.36.1/AndroidManifest.xml:18:1-30:12
+MERGED from [com.mikepenz:weather-icons-typeface:2.0.10.2] /Users/ema/.gradle/caches/transforms-3/8a3d4038d02ac3cbe1e1feec59e3ac61/transformed/weather-icons-typeface-2.0.10.2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.mikepenz:typeicons-typeface:2.0.7.2] /Users/ema/.gradle/caches/transforms-3/783f880ea55c1db4eae76efdb491685f/transformed/typeicons-typeface-2.0.7.2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.mikepenz:entypo-typeface:1.0.0.2] /Users/ema/.gradle/caches/transforms-3/fd5f3d0c286f92edeb1a750598156fb0/transformed/entypo-typeface-1.0.0.2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.mikepenz:devicon-typeface:2.0.0.2] /Users/ema/.gradle/caches/transforms-3/2329b838d538aa2effd9a58fad46c6dc/transformed/devicon-typeface-2.0.0.2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.mikepenz:foundation-icons-typeface:3.0.0.2] /Users/ema/.gradle/caches/transforms-3/e25bd132cd10d8ed964823adae121735/transformed/foundation-icons-typeface-3.0.0.2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.mikepenz:ionicons-typeface:2.0.1.2] /Users/ema/.gradle/caches/transforms-3/5eb318b5e93a81f50dd54c022fe0acc0/transformed/ionicons-typeface-2.0.1.2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.mikepenz:crossfader:1.5.2] /Users/ema/.gradle/caches/transforms-3/8a62d75fe74c8ea44dd4330ea5fc7318/transformed/crossfader-1.5.2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mbientlab:metawear:2.5.9] /Users/ema/.gradle/caches/transforms-3/0de54ee517ed176c64c671c37f4d10e2/transformed/metawear-2.5.9/AndroidManifest.xml:25:1-41:12
+MERGED from [com.mbientlab.bletoolbox:scanner:0.2.0] /Users/ema/.gradle/caches/transforms-3/28442e0929283a283d2ca17db58a9f32/transformed/scanner-0.2.0/AndroidManifest.xml:2:1-15:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ema/.gradle/caches/transforms-3/4333ee37bd610170b5b8e303bcdd58b6/transformed/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikepenz:materialize:1.0.1] /Users/ema/.gradle/caches/transforms-3/ae62ffc6c312b1709f7f7f151d932717/transformed/materialize-1.0.1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:iconics-core:2.8.0] /Users/ema/.gradle/caches/transforms-3/214ec0e1e491b7225e5513c60092d316/transformed/iconics-core-2.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter:2.1.0] /Users/ema/.gradle/caches/transforms-3/b9c6b50bb82e285aad95c56c42c5dbca/transformed/fastadapter-2.1.0/AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ema/.gradle/caches/transforms-3/d9aceaf6ce024f4e38a11ae358912365/transformed/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ema/.gradle/caches/transforms-3/46a8958ad2b745c4b4d6bb870503699a/transformed/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ema/.gradle/caches/transforms-3/32f55b9e7c27265d48b3f11eff06fef8/transformed/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:1:1-52:12
+	package
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:1:1-52:12
+		INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:1:1-52:12
+		INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.mbientlab:metawear:2.5.9] /Users/ema/.gradle/caches/transforms-3/0de54ee517ed176c64c671c37f4d10e2/transformed/metawear-2.5.9/AndroidManifest.xml:39:5-67
+MERGED from [com.mbientlab:metawear:2.5.9] /Users/ema/.gradle/caches/transforms-3/0de54ee517ed176c64c671c37f4d10e2/transformed/metawear-2.5.9/AndroidManifest.xml:39:5-67
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:6:22-68
+application
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:9:5-50:19
+MERGED from [com.github.zagum:SpeechRecognitionView:1.2.2] /Users/ema/.gradle/caches/transforms-3/dfb6adf4080366295c30fd625a1dc5b5/transformed/SpeechRecognitionView-1.2.2/AndroidManifest.xml:8:5-20
+MERGED from [com.github.zagum:SpeechRecognitionView:1.2.2] /Users/ema/.gradle/caches/transforms-3/dfb6adf4080366295c30fd625a1dc5b5/transformed/SpeechRecognitionView-1.2.2/AndroidManifest.xml:8:5-20
+MERGED from [com.mikepenz:google-material-typeface:3.0.1.2.original] /Users/ema/.gradle/caches/transforms-3/7bff074c4cff01acc7ee6c29a7ed4fd1/transformed/google-material-typeface-3.0.1.2.original/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:google-material-typeface:3.0.1.2.original] /Users/ema/.gradle/caches/transforms-3/7bff074c4cff01acc7ee6c29a7ed4fd1/transformed/google-material-typeface-3.0.1.2.original/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:material-design-iconic-typeface:2.2.0.2] /Users/ema/.gradle/caches/transforms-3/ccb1dfa9b6fd91de1901c2daa41eb3b7/transformed/material-design-iconic-typeface-2.2.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:material-design-iconic-typeface:2.2.0.2] /Users/ema/.gradle/caches/transforms-3/ccb1dfa9b6fd91de1901c2daa41eb3b7/transformed/material-design-iconic-typeface-2.2.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:octicons-typeface:3.2.0.2] /Users/ema/.gradle/caches/transforms-3/ee41538324c756ea9ee7be538d29c0be/transformed/octicons-typeface-3.2.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:octicons-typeface:3.2.0.2] /Users/ema/.gradle/caches/transforms-3/ee41538324c756ea9ee7be538d29c0be/transformed/octicons-typeface-3.2.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:meteocons-typeface:1.1.0.2] /Users/ema/.gradle/caches/transforms-3/fab831043cf9e3a00320ac941eecd249/transformed/meteocons-typeface-1.1.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:meteocons-typeface:1.1.0.2] /Users/ema/.gradle/caches/transforms-3/fab831043cf9e3a00320ac941eecd249/transformed/meteocons-typeface-1.1.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:community-material-typeface:1.8.36.1] /Users/ema/.gradle/caches/transforms-3/152041bd916913dbdac7134963a5b463/transformed/community-material-typeface-1.8.36.1/AndroidManifest.xml:28:5-20
+MERGED from [com.mikepenz:community-material-typeface:1.8.36.1] /Users/ema/.gradle/caches/transforms-3/152041bd916913dbdac7134963a5b463/transformed/community-material-typeface-1.8.36.1/AndroidManifest.xml:28:5-20
+MERGED from [com.mikepenz:weather-icons-typeface:2.0.10.2] /Users/ema/.gradle/caches/transforms-3/8a3d4038d02ac3cbe1e1feec59e3ac61/transformed/weather-icons-typeface-2.0.10.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:weather-icons-typeface:2.0.10.2] /Users/ema/.gradle/caches/transforms-3/8a3d4038d02ac3cbe1e1feec59e3ac61/transformed/weather-icons-typeface-2.0.10.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:typeicons-typeface:2.0.7.2] /Users/ema/.gradle/caches/transforms-3/783f880ea55c1db4eae76efdb491685f/transformed/typeicons-typeface-2.0.7.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:typeicons-typeface:2.0.7.2] /Users/ema/.gradle/caches/transforms-3/783f880ea55c1db4eae76efdb491685f/transformed/typeicons-typeface-2.0.7.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:entypo-typeface:1.0.0.2] /Users/ema/.gradle/caches/transforms-3/fd5f3d0c286f92edeb1a750598156fb0/transformed/entypo-typeface-1.0.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:entypo-typeface:1.0.0.2] /Users/ema/.gradle/caches/transforms-3/fd5f3d0c286f92edeb1a750598156fb0/transformed/entypo-typeface-1.0.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:devicon-typeface:2.0.0.2] /Users/ema/.gradle/caches/transforms-3/2329b838d538aa2effd9a58fad46c6dc/transformed/devicon-typeface-2.0.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:devicon-typeface:2.0.0.2] /Users/ema/.gradle/caches/transforms-3/2329b838d538aa2effd9a58fad46c6dc/transformed/devicon-typeface-2.0.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:foundation-icons-typeface:3.0.0.2] /Users/ema/.gradle/caches/transforms-3/e25bd132cd10d8ed964823adae121735/transformed/foundation-icons-typeface-3.0.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:foundation-icons-typeface:3.0.0.2] /Users/ema/.gradle/caches/transforms-3/e25bd132cd10d8ed964823adae121735/transformed/foundation-icons-typeface-3.0.0.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:ionicons-typeface:2.0.1.2] /Users/ema/.gradle/caches/transforms-3/5eb318b5e93a81f50dd54c022fe0acc0/transformed/ionicons-typeface-2.0.1.2/AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:ionicons-typeface:2.0.1.2] /Users/ema/.gradle/caches/transforms-3/5eb318b5e93a81f50dd54c022fe0acc0/transformed/ionicons-typeface-2.0.1.2/AndroidManifest.xml:27:5-20
+	android:supportsRtl
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:14:9-40
+service#com.alesp.feedbackapp.WakeUpService
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:16:9-49
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:16:18-47
+activity#com.alesp.feedbackapp.SplashActivity
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:18:5-26:16
+	android:screenOrientation
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:20:9-46
+	android:configChanges
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:19:9-86
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:18:15-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:21:10-25:21
+action#android.intent.action.MAIN
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:24:9-69
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:24:19-66
+activity#com.alesp.feedbackapp.SettingsActivity
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:30:13-50
+	android:configChanges
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:29:13-90
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:28:19-51
+activity#com.alesp.feedbackapp.QueryUser
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:35:13-50
+	android:configChanges
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:34:13-90
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:33:19-44
+activity#com.alesp.feedbackapp.QueryAnswer
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:37:9-39:52
+	android:screenOrientation
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:39:13-50
+	android:configChanges
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:38:13-90
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:37:19-46
+activity#com.alesp.feedbackapp.QueryFeeling
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:41:9-43:52
+	android:screenOrientation
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:43:13-50
+	android:configChanges
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:42:13-90
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:41:19-47
+activity#com.alesp.feedbackapp.HomeActivity
+ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:48:13-50
+	android:launchMode
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:46:13-43
+	android:configChanges
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:47:13-90
+	android:name
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml:45:19-47
+uses-sdk
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /Users/ema/.gradle/caches/transforms-3/027f944198f96749f9aeb6bed9bdfaa7/transformed/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/ema/.gradle/caches/transforms-3/027f944198f96749f9aeb6bed9bdfaa7/transformed/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.mikepenz:materialdrawer:5.8.2] /Users/ema/.gradle/caches/transforms-3/2d6b75350aefc5f99c38c04d885fbad5/transformed/materialdrawer-5.8.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialdrawer:5.8.2] /Users/ema/.gradle/caches/transforms-3/2d6b75350aefc5f99c38c04d885fbad5/transformed/materialdrawer-5.8.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] /Users/ema/.gradle/caches/transforms-3/9af87bd6edd2cbd50d69898ee7202fe9/transformed/design-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/ema/.gradle/caches/transforms-3/9af87bd6edd2cbd50d69898ee7202fe9/transformed/design-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.zagum:SpeechRecognitionView:1.2.2] /Users/ema/.gradle/caches/transforms-3/dfb6adf4080366295c30fd625a1dc5b5/transformed/SpeechRecognitionView-1.2.2/AndroidManifest.xml:6:5-44
+MERGED from [com.github.zagum:SpeechRecognitionView:1.2.2] /Users/ema/.gradle/caches/transforms-3/dfb6adf4080366295c30fd625a1dc5b5/transformed/SpeechRecognitionView-1.2.2/AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ema/.gradle/caches/transforms-3/1291987d2a8eede2ff053a2f64a68c5a/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ema/.gradle/caches/transforms-3/1291987d2a8eede2ff053a2f64a68c5a/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ema/.gradle/caches/transforms-3/5f87e790371d8854e405d8f75cd24d85/transformed/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ema/.gradle/caches/transforms-3/5f87e790371d8854e405d8f75cd24d85/transformed/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ema/.gradle/caches/transforms-3/6c6274e9f8c6b59371c336c259bf3b5b/transformed/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ema/.gradle/caches/transforms-3/6c6274e9f8c6b59371c336c259bf3b5b/transformed/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ema/.gradle/caches/transforms-3/4f71b10a145588652be82199fc4ca0ba/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ema/.gradle/caches/transforms-3/4f71b10a145588652be82199fc4ca0ba/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ema/.gradle/caches/transforms-3/62381b2078d0ae519dddb1dcc42c1f98/transformed/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ema/.gradle/caches/transforms-3/62381b2078d0ae519dddb1dcc42c1f98/transformed/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ema/.gradle/caches/transforms-3/589760cbe1f2cae8dbeba2a256d2d759/transformed/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ema/.gradle/caches/transforms-3/589760cbe1f2cae8dbeba2a256d2d759/transformed/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ema/.gradle/caches/transforms-3/ff21552dc01821d4292984569e384887/transformed/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ema/.gradle/caches/transforms-3/ff21552dc01821d4292984569e384887/transformed/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ema/.gradle/caches/transforms-3/213f1fd921a19f40997ac3b78cd9ed17/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ema/.gradle/caches/transforms-3/213f1fd921a19f40997ac3b78cd9ed17/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/ema/.gradle/caches/transforms-3/8cb78b267e9add9bf71b5b629c3070d8/transformed/transition-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/ema/.gradle/caches/transforms-3/8cb78b267e9add9bf71b5b629c3070d8/transformed/transition-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ema/.gradle/caches/transforms-3/b35de9cc68c1cbcd0a9b3ce0ae092362/transformed/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ema/.gradle/caches/transforms-3/b35de9cc68c1cbcd0a9b3ce0ae092362/transformed/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ema/.gradle/caches/transforms-3/ba6ed871354da306725bbd2eca26d933/transformed/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ema/.gradle/caches/transforms-3/ba6ed871354da306725bbd2eca26d933/transformed/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.easing:library:2.0] /Users/ema/.gradle/caches/transforms-3/22d086be7dbd94b1db70e2a80a891ab2/transformed/library-2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:2.0] /Users/ema/.gradle/caches/transforms-3/22d086be7dbd94b1db70e2a80a891ab2/transformed/library-2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.2] /Users/ema/.gradle/caches/transforms-3/fbc3ebbeb8541662bfce014e4b0e8a4f/transformed/library-2.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.2] /Users/ema/.gradle/caches/transforms-3/fbc3ebbeb8541662bfce014e4b0e8a4f/transformed/library-2.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.wang.avi:library:2.1.3] /Users/ema/.gradle/caches/transforms-3/04dc1166a69b36f886fbf88af9d16bda/transformed/library-2.1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] /Users/ema/.gradle/caches/transforms-3/04dc1166a69b36f886fbf88af9d16bda/transformed/library-2.1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:google-material-typeface:3.0.1.2.original] /Users/ema/.gradle/caches/transforms-3/7bff074c4cff01acc7ee6c29a7ed4fd1/transformed/google-material-typeface-3.0.1.2.original/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:google-material-typeface:3.0.1.2.original] /Users/ema/.gradle/caches/transforms-3/7bff074c4cff01acc7ee6c29a7ed4fd1/transformed/google-material-typeface-3.0.1.2.original/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:material-design-iconic-typeface:2.2.0.2] /Users/ema/.gradle/caches/transforms-3/ccb1dfa9b6fd91de1901c2daa41eb3b7/transformed/material-design-iconic-typeface-2.2.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:material-design-iconic-typeface:2.2.0.2] /Users/ema/.gradle/caches/transforms-3/ccb1dfa9b6fd91de1901c2daa41eb3b7/transformed/material-design-iconic-typeface-2.2.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:fontawesome-typeface:5.0.6.0] /Users/ema/.gradle/caches/transforms-3/73408faa5a4b01948bdc9af8e5434330/transformed/fontawesome-typeface-5.0.6.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fontawesome-typeface:5.0.6.0] /Users/ema/.gradle/caches/transforms-3/73408faa5a4b01948bdc9af8e5434330/transformed/fontawesome-typeface-5.0.6.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:octicons-typeface:3.2.0.2] /Users/ema/.gradle/caches/transforms-3/ee41538324c756ea9ee7be538d29c0be/transformed/octicons-typeface-3.2.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:octicons-typeface:3.2.0.2] /Users/ema/.gradle/caches/transforms-3/ee41538324c756ea9ee7be538d29c0be/transformed/octicons-typeface-3.2.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:meteocons-typeface:1.1.0.2] /Users/ema/.gradle/caches/transforms-3/fab831043cf9e3a00320ac941eecd249/transformed/meteocons-typeface-1.1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:meteocons-typeface:1.1.0.2] /Users/ema/.gradle/caches/transforms-3/fab831043cf9e3a00320ac941eecd249/transformed/meteocons-typeface-1.1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:community-material-typeface:1.8.36.1] /Users/ema/.gradle/caches/transforms-3/152041bd916913dbdac7134963a5b463/transformed/community-material-typeface-1.8.36.1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.mikepenz:community-material-typeface:1.8.36.1] /Users/ema/.gradle/caches/transforms-3/152041bd916913dbdac7134963a5b463/transformed/community-material-typeface-1.8.36.1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.mikepenz:weather-icons-typeface:2.0.10.2] /Users/ema/.gradle/caches/transforms-3/8a3d4038d02ac3cbe1e1feec59e3ac61/transformed/weather-icons-typeface-2.0.10.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:weather-icons-typeface:2.0.10.2] /Users/ema/.gradle/caches/transforms-3/8a3d4038d02ac3cbe1e1feec59e3ac61/transformed/weather-icons-typeface-2.0.10.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:typeicons-typeface:2.0.7.2] /Users/ema/.gradle/caches/transforms-3/783f880ea55c1db4eae76efdb491685f/transformed/typeicons-typeface-2.0.7.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:typeicons-typeface:2.0.7.2] /Users/ema/.gradle/caches/transforms-3/783f880ea55c1db4eae76efdb491685f/transformed/typeicons-typeface-2.0.7.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:entypo-typeface:1.0.0.2] /Users/ema/.gradle/caches/transforms-3/fd5f3d0c286f92edeb1a750598156fb0/transformed/entypo-typeface-1.0.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:entypo-typeface:1.0.0.2] /Users/ema/.gradle/caches/transforms-3/fd5f3d0c286f92edeb1a750598156fb0/transformed/entypo-typeface-1.0.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:devicon-typeface:2.0.0.2] /Users/ema/.gradle/caches/transforms-3/2329b838d538aa2effd9a58fad46c6dc/transformed/devicon-typeface-2.0.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:devicon-typeface:2.0.0.2] /Users/ema/.gradle/caches/transforms-3/2329b838d538aa2effd9a58fad46c6dc/transformed/devicon-typeface-2.0.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:foundation-icons-typeface:3.0.0.2] /Users/ema/.gradle/caches/transforms-3/e25bd132cd10d8ed964823adae121735/transformed/foundation-icons-typeface-3.0.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:foundation-icons-typeface:3.0.0.2] /Users/ema/.gradle/caches/transforms-3/e25bd132cd10d8ed964823adae121735/transformed/foundation-icons-typeface-3.0.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:ionicons-typeface:2.0.1.2] /Users/ema/.gradle/caches/transforms-3/5eb318b5e93a81f50dd54c022fe0acc0/transformed/ionicons-typeface-2.0.1.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:ionicons-typeface:2.0.1.2] /Users/ema/.gradle/caches/transforms-3/5eb318b5e93a81f50dd54c022fe0acc0/transformed/ionicons-typeface-2.0.1.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:crossfader:1.5.2] /Users/ema/.gradle/caches/transforms-3/8a62d75fe74c8ea44dd4330ea5fc7318/transformed/crossfader-1.5.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:crossfader:1.5.2] /Users/ema/.gradle/caches/transforms-3/8a62d75fe74c8ea44dd4330ea5fc7318/transformed/crossfader-1.5.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mbientlab:metawear:2.5.9] /Users/ema/.gradle/caches/transforms-3/0de54ee517ed176c64c671c37f4d10e2/transformed/metawear-2.5.9/AndroidManifest.xml:30:5-32:41
+MERGED from [com.mbientlab:metawear:2.5.9] /Users/ema/.gradle/caches/transforms-3/0de54ee517ed176c64c671c37f4d10e2/transformed/metawear-2.5.9/AndroidManifest.xml:30:5-32:41
+MERGED from [com.mbientlab.bletoolbox:scanner:0.2.0] /Users/ema/.gradle/caches/transforms-3/28442e0929283a283d2ca17db58a9f32/transformed/scanner-0.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mbientlab.bletoolbox:scanner:0.2.0] /Users/ema/.gradle/caches/transforms-3/28442e0929283a283d2ca17db58a9f32/transformed/scanner-0.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ema/.gradle/caches/transforms-3/4333ee37bd610170b5b8e303bcdd58b6/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ema/.gradle/caches/transforms-3/4333ee37bd610170b5b8e303bcdd58b6/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:materialize:1.0.1] /Users/ema/.gradle/caches/transforms-3/ae62ffc6c312b1709f7f7f151d932717/transformed/materialize-1.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:1.0.1] /Users/ema/.gradle/caches/transforms-3/ae62ffc6c312b1709f7f7f151d932717/transformed/materialize-1.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.8.0] /Users/ema/.gradle/caches/transforms-3/214ec0e1e491b7225e5513c60092d316/transformed/iconics-core-2.8.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.8.0] /Users/ema/.gradle/caches/transforms-3/214ec0e1e491b7225e5513c60092d316/transformed/iconics-core-2.8.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:2.1.0] /Users/ema/.gradle/caches/transforms-3/b9c6b50bb82e285aad95c56c42c5dbca/transformed/fastadapter-2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:2.1.0] /Users/ema/.gradle/caches/transforms-3/b9c6b50bb82e285aad95c56c42c5dbca/transformed/fastadapter-2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ema/.gradle/caches/transforms-3/d9aceaf6ce024f4e38a11ae358912365/transformed/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ema/.gradle/caches/transforms-3/d9aceaf6ce024f4e38a11ae358912365/transformed/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ema/.gradle/caches/transforms-3/46a8958ad2b745c4b4d6bb870503699a/transformed/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ema/.gradle/caches/transforms-3/46a8958ad2b745c4b4d6bb870503699a/transformed/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ema/.gradle/caches/transforms-3/32f55b9e7c27265d48b3f11eff06fef8/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ema/.gradle/caches/transforms-3/32f55b9e7c27265d48b3f11eff06fef8/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ema/Desktop/android-tablet-smarthome-interface/feedbackApp/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from [com.mbientlab:metawear:2.5.9] /Users/ema/.gradle/caches/transforms-3/0de54ee517ed176c64c671c37f4d10e2/transformed/metawear-2.5.9/AndroidManifest.xml:34:5-36:35
+	android:required
+		ADDED from [com.mbientlab:metawear:2.5.9] /Users/ema/.gradle/caches/transforms-3/0de54ee517ed176c64c671c37f4d10e2/transformed/metawear-2.5.9/AndroidManifest.xml:36:9-32
+	android:name
+		ADDED from [com.mbientlab:metawear:2.5.9] /Users/ema/.gradle/caches/transforms-3/0de54ee517ed176c64c671c37f4d10e2/transformed/metawear-2.5.9/AndroidManifest.xml:35:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.mbientlab:metawear:2.5.9] /Users/ema/.gradle/caches/transforms-3/0de54ee517ed176c64c671c37f4d10e2/transformed/metawear-2.5.9/AndroidManifest.xml:38:5-68
+MERGED from [com.mbientlab.bletoolbox:scanner:0.2.0] /Users/ema/.gradle/caches/transforms-3/28442e0929283a283d2ca17db58a9f32/transformed/scanner-0.2.0/AndroidManifest.xml:11:5-68
+MERGED from [com.mbientlab.bletoolbox:scanner:0.2.0] /Users/ema/.gradle/caches/transforms-3/28442e0929283a283d2ca17db58a9f32/transformed/scanner-0.2.0/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [com.mbientlab:metawear:2.5.9] /Users/ema/.gradle/caches/transforms-3/0de54ee517ed176c64c671c37f4d10e2/transformed/metawear-2.5.9/AndroidManifest.xml:38:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [com.mbientlab.bletoolbox:scanner:0.2.0] /Users/ema/.gradle/caches/transforms-3/28442e0929283a283d2ca17db58a9f32/transformed/scanner-0.2.0/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [com.mbientlab.bletoolbox:scanner:0.2.0] /Users/ema/.gradle/caches/transforms-3/28442e0929283a283d2ca17db58a9f32/transformed/scanner-0.2.0/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.mbientlab.bletoolbox:scanner:0.2.0] /Users/ema/.gradle/caches/transforms-3/28442e0929283a283d2ca17db58a9f32/transformed/scanner-0.2.0/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [com.mbientlab.bletoolbox:scanner:0.2.0] /Users/ema/.gradle/caches/transforms-3/28442e0929283a283d2ca17db58a9f32/transformed/scanner-0.2.0/AndroidManifest.xml:13:22-78
