@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="70dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-thin"
+            android:text="Ti ritieni soddisfatto del momento in cui hai ricevuto la notifica?"
+            android:textAlignment="center"
+            android:textColor="?android:attr/textColorTertiary"
+            android:textSize="70sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/userinput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:gravity="center_horizontal"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/feedbackReceived"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="110dp"
+            android:fontFamily="sans-serif-thin"
+            android:text="@string/feedbackReceived"
+            android:textAlignment="center"
+            android:textColor="?android:attr/textColorTertiary"
+            android:textSize="70sp"
+            android:visibility="gone" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="435dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:splitMotionEvents="false">
+
+
+            <LinearLayout
+                android:layout_width="255dp"
+                android:layout_height="366dp"
+                android:orientation="vertical"
+                android:paddingLeft="25dp">
+
+
+                <ImageButton
+                    android:id="@+id/happy_button"
+                    style="@style/CustomButton"
+                    android:layout_width="185dp"
+                    android:layout_height="185dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/ic_happy"
+                    android:gravity="center_horizontal"
+                    android:padding="30dp"
+                    android:scaleType="fitCenter"
+                    android:textColor="?android:attr/textColorTertiary"
+                    android:textSize="25sp"
+                    tools:ignore="SpeakableTextPresentCheck" />
+
+
+                <TextView
+                    android:id="@+id/happy_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="45dp"
+                    android:fontFamily="sans-serif-thin"
+                    android:gravity="center_horizontal"
+                    android:text="Soddisfatto"
+                    android:textSize="30sp"></TextView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="238dp"
+                android:layout_height="366dp"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/plain_button"
+                    style="@style/CustomButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="238dp"
+                    android:background="@drawable/ic_plain"
+                    android:gravity="center"
+                    android:scaleType="fitCenter"
+                    android:textColor="?android:attr/textColorTertiary"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/plain_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="sans-serif-thin"
+                    android:gravity="center_horizontal"
+                    android:text="Discretamente soddisfatto"
+                    android:textAlignment="center"
+                    android:textSize="30sp"></TextView>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="367dp"
+                android:orientation="vertical"
+                android:paddingLeft="40dp" >
+
+                <ImageButton
+                    android:id="@+id/sad_button"
+                    style="@style/CustomButton"
+                    android:layout_width="185dp"
+                    android:layout_height="185dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/ic_sad"
+                    android:padding="30dp"
+                    android:scaleType="fitCenter"
+                    android:textColor="?android:attr/textColorTertiary"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/sad_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="45dp"
+                    android:fontFamily="sans-serif-thin"
+                    android:gravity="center_horizontal"
+                    android:text="Non soddisfatto"
+                    android:textSize="30sp"></TextView>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ></LinearLayout>
+        <!--  <Button
+            android:visibility="gone"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="880dp"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:background="@drawable/button_altro"
+            style="@style/CustomButton"
+            android:layout_marginTop="30dp"
+            android:text="Altro"
+            android:textColor="?android:attr/textColorTertiary"
+            android:fontFamily="sans-serif-medium"
+            android:id="@+id/other" />-->
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/homeContainer">
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="40dp"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true">
+
+            <GridView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone"
+                android:gravity="center"
+                android:numColumns="2"
+                android:adjustViewBounds="true"
+                android:paddingLeft="30dp"
+                android:id="@+id/scrollActivities">
+            </GridView>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:id="@+id/item_first"
+                android:layout_width="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content"
+                android:paddingRight="35dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/firstPlaceData"
+                    android:gravity="center"
+                    android:textSize="30dp"
+                    android:layout_gravity="center_horizontal"
+                    />
+                <ImageButton
+                    android:id="@+id/first_ac"
+                    android:text="Button"
+                    android:textColor="?android:attr/textColorTertiary"
+                    android:textSize="30sp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    style="@style/CustomButton"
+                    android:layout_width="260dp"
+                    android:layout_height="260dp"
+                    android:background="@drawable/buttonshape"
+                    app:srcCompat="@drawable/ic_play_button_sing"
+                    android:adjustViewBounds="true"
+                    android:padding="30dp"
+                    android:scaleType="fitCenter"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/first_activityData"
+                    android:gravity="center"
+                    android:textSize="30dp"
+                    android:layout_gravity="center_horizontal"
+                    />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+
+                    android:orientation="horizontal">
+                    <ImageButton
+                        android:id="@+id/user0_frag"
+                        android:background="@android:color/transparent"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <ImageButton
+                        android:id="@+id/user1_frag"
+                        android:background="@android:color/transparent"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <ImageButton
+                        android:id="@+id/user2_frag"
+                        android:background="@android:color/transparent"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <ImageButton
+                        android:id="@+id/user3_frag"
+                        android:background="@android:color/transparent"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/item_second"
+                android:visibility="gone"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="30dp"
+                    android:layout_gravity="center_horizontal"
+                    android:id="@+id/secondPlaceData"/>
+                <ImageButton
+                    android:id="@+id/second_ac"
+                    android:text="Button"
+                    android:textColor="?android:attr/textColorTertiary"
+                    android:textSize="30sp"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    style="@style/CustomButton"
+                    android:layout_width="260dp"
+                    android:layout_height="260dp"
+                    android:background="@drawable/buttonshape"
+                    app:srcCompat="@drawable/ic_play_button_sing"
+                    android:adjustViewBounds="true"
+                    android:padding="30dp"
+                    android:scaleType="fitCenter"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/second_activityData"
+                    android:gravity="center"
+                    android:textSize="30dp"
+                    android:layout_gravity="center_horizontal"
+                    />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+
+                    android:orientation="horizontal">
+                    <ImageButton
+                        android:id="@+id/user0_frag2"
+                        android:background="@android:color/transparent"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <ImageButton
+                        android:id="@+id/user1_frag2"
+                        android:background="@android:color/transparent"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <ImageButton
+                        android:id="@+id/user2_frag2"
+                        android:background="@android:color/transparent"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                    <ImageButton
+                        android:id="@+id/user3_frag2"
+                        android:background="@android:color/transparent"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/item_only"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="40dp"
+                android:layout_gravity="center_horizontal"
+                android:id="@+id/onlyPlaceData"/>
+
+            <ImageButton
+                android:id="@+id/only_one"
+                android:text="Button"
+                android:textColor="?android:attr/textColorTertiary"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                style="@style/CustomButton"
+                android:layout_width="340dp"
+                android:layout_height="340dp"
+                android:background="@drawable/buttonshape"
+                app:srcCompat="@drawable/ic_play_button_sing"
+                android:adjustViewBounds="true"
+                android:padding="30dp"
+                android:scaleType="fitCenter"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="40dp"
+                android:layout_gravity="center_horizontal"
+                android:id="@+id/onlyActivityData"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+                <ImageButton
+                    android:id="@+id/user0_frag_only"
+                    android:background="@android:color/transparent"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <ImageButton
+                    android:id="@+id/user1_frag_only"
+                    android:background="@android:color/transparent"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <ImageButton
+                    android:id="@+id/user2_frag_only"
+                    android:background="@android:color/transparent"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <ImageButton
+                    android:id="@+id/user3_frag_only"
+                    android:background="@android:color/transparent"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="20dp">
+
+            <TextView
+                android:text="@string/controlPanel"
+                android:fontFamily="sans-serif-thin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="-80dp"
+                android:id="@+id/title"
+                android:textSize="70sp"
+                android:textAlignment="center"
+                android:textColor="?android:attr/textColorTertiary" />
+
+
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="-30dp">
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:text="@string/notActive"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:visibility="invisible"
+                android:id="@+id/currently" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginLeft="-30dp"
+            android:layout_marginTop="70dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+
+
+
+
+
+
+
+
+            <!--<ImageButton
+                android:id="@+id/first_activity"
+                android:text="Button"
+                android:textColor="?android:attr/textColorTertiary"
+                android:textSize="30sp"
+                style="@style/CustomButton"
+                android:layout_width="260dp"
+                android:layout_height="260dp"
+                android:background="@drawable/buttonshape"
+                app:srcCompat="@drawable/ic_play_button_sing"
+                android:adjustViewBounds="true"
+                android:padding="30dp"
+                android:scaleType="fitCenter"
+                android:visibility="gone"/> -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Listening for data..."
+                    android:layout_marginTop="60dp"
+                    android:layout_marginLeft="0dp"
+                    android:fontFamily="sans-serif-thin"
+                    android:id="@+id/currentActivity"
+                    android:textSize="30sp"></TextView>
+
+                <!--metti marginleft di listening for data 10 se metti la rotellina visibile-->
+
+                <com.wang.avi.AVLoadingIndicatorView
+                    android:id="@+id/avi"
+                    android:visibility="gone"
+                    android:layout_marginTop="70dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    app:indicatorName="BallSpinFadeLoaderIndicator"
+                    app:indicatorColor="#878787"
+                    />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

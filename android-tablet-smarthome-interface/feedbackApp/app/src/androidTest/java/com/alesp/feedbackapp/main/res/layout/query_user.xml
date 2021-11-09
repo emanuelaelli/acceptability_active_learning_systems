@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="70dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-thin"
+            android:text="@string/whichActivity"
+            android:textAlignment="center"
+            android:textColor="?android:attr/textColorTertiary"
+            android:textSize="70sp" />
+
+        <TextView
+            android:id="@+id/titleDescr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/whichDescription"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="81dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp">
+
+            <com.github.zagum.speechrecognitionview.RecognitionProgressView
+                android:id="@+id/progress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:visibility="gone" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/userinput"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:gravity="center_horizontal"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/feedbackReceived"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="110dp"
+            android:fontFamily="sans-serif-thin"
+            android:text="@string/feedbackReceived"
+            android:textAlignment="center"
+            android:textColor="?android:attr/textColorTertiary"
+            android:textSize="70sp"
+            android:visibility="gone" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:splitMotionEvents="false">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/firstactivity_button"
+                    style="@style/CustomButton"
+                    android:layout_width="260dp"
+                    android:layout_height="260dp"
+                    android:layout_marginRight="50dp"
+                    android:background="@drawable/buttonshape"
+                    android:gravity="center_horizontal"
+                    android:padding="30dp"
+                    android:scaleType="fitCenter"
+                    android:textColor="?android:attr/textColorTertiary"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/firstactivity_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="sans-serif-thin"
+                    android:gravity="center_horizontal"
+                    android:text="Listening for data..."
+                    android:textSize="30sp"></TextView>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|bottom"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/noneactivity_button"
+
+                    style="@style/CustomButton"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:background="@drawable/ic_question"
+                    android:gravity="center"
+                    android:scaleType="fitCenter"
+                    android:textColor="?android:attr/textColorTertiary"
+                    android:textSize="25sp" />
+              <!--  android:background="@drawable/buttonshape" -->
+
+                <TextView
+                    android:id="@+id/noneactivity_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="sans-serif-thin"
+                    android:gravity="center_horizontal"
+                    android:text="None/Other"
+                    android:textAlignment="center"
+                    android:textSize="20sp"></TextView>
+
+            </LinearLayout>
+
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="50dp"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/secondactivity_button"
+                    style="@style/CustomButton"
+
+                    android:layout_width="260dp"
+                    android:layout_height="260dp"
+                    android:background="@drawable/buttonshape"
+                    android:padding="30dp"
+                    android:scaleType="fitCenter"
+                    android:textColor="?android:attr/textColorTertiary"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/secondactivity_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="sans-serif-thin"
+                    android:gravity="center_horizontal"
+                    android:text="Listening for data..."
+                    android:textSize="30sp"></TextView>
+
+            </LinearLayout>
+
+
+
+            <Button
+                android:id="@+id/third_activity"
+                style="@style/CustomButton"
+                android:layout_width="260dp"
+                android:layout_height="260dp"
+                android:background="@drawable/buttonshape"
+                android:gravity="center_horizontal"
+                android:textColor="?android:attr/textColorTertiary"
+                android:textSize="25sp"
+
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ></LinearLayout>
+        <!--  <Button
+            android:visibility="gone"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="880dp"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:background="@drawable/button_altro"
+            style="@style/CustomButton"
+            android:layout_marginTop="30dp"
+            android:text="Altro"
+            android:textColor="?android:attr/textColorTertiary"
+            android:fontFamily="sans-serif-medium"
+            android:id="@+id/other" />-->
+
+    </LinearLayout>
+
+</LinearLayout>
